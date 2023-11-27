@@ -1,0 +1,11 @@
+{
+    "train_img_path": "../data/train/",
+    "train_csv_path": "../data/train.csv",
+    "test_img_path": "../data/test/",
+    "test_csv_path": "../data/test.csv",
+    "img_size": 256,
+    "epoches": 20,
+    "lr": 0.01,
+    "batch_size": 256,
+    "device": "GPU"
+}
